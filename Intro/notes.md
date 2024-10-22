@@ -1,0 +1,4 @@
+- The 6th fiboncacci number is actually the 4th fiboncacci number plus the 3rd fibonacci number.
+  - This is because the first fibonacci number is 0.
+- The loop /for num in range(18)/ runs 18 times.
+  - if "n" is the length of an array, then for i in range(n) can iterate through all the elements in an array.
